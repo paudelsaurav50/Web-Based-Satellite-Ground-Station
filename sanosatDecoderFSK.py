@@ -1,3 +1,5 @@
+#This code is just for the testing purposes. It is based on the script written by: https://iangoegebuer.com/2022/03/decoding-fsk-data-with-an-rtl-sdr-and-python-cheap-30-sdr/
+
 import numpy as np
 import scipy.signal as sig
 import scipy.io.wavfile as wf
